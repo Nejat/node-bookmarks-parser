@@ -13,11 +13,11 @@
   },
   "license": "ISC",
   "dependencies": {
-    "async": "^0.9.0",
-    "jsdom": "3.x.x"
+    "async": "latest",
+    "jsdom": "latest"
   },
   "devDependencies": {
-    "mocha": "^2.1.0",
-    "should": "^5.1.0"
+    "mocha": "latest",
+    "should": "latest"
   }
 }
